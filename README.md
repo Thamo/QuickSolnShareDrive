@@ -26,6 +26,8 @@ http://www.1stwebdesigner.com/distance-finder-google-maps-api/
 
 http://4byte.cn/question/762535/google-map-with-dynamic-and-multiple-destinations.html
 
+http://www.avajava.com/tutorials/lessons/how-do-i-build-a-war-file-with-ant.html
+
 
 CREATE  TABLE `techtool`.`login` (  
 06.  `user` VARCHAR(20) NOT NULL ,  
