@@ -115,3 +115,9 @@ function calcRoute(start, end) {
 }
 </script>
 
+
+//////
+
+Install CLI - V6
+https://anynines.zendesk.com/entries/60241846-How-to-install-the-CLI-v6
+ 
